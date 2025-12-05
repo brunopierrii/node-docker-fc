@@ -2,7 +2,7 @@
 
 Projeto de exemplo utilizando Docker Compose com Node.js, PostgreSQL e Nginx como reverse proxy.
 
-## 📋 Descrição
+## Descrição
 
 Este projeto demonstra uma aplicação web completa com:
 - **Node.js**: Backend que insere e lista nomes aleatórios
@@ -16,7 +16,7 @@ Este projeto demonstra uma aplicação web completa com:
 Cliente → Nginx (porta 8080) → Node.js (porta 3000) → PostgreSQL (porta 5432)
 ```
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 node-docker-fc/
@@ -37,7 +37,7 @@ node-docker-fc/
 └── README.md
 ```
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
